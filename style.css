@@ -1,0 +1,16 @@
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#CheckerOfText{
+    display: none;
+}
+#EnteringNumber{
+    /*display: flex;
+    align-items: center;*/
+    display: none;
+
+}
